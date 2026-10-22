@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "88 Games",
+    "slug": "88games",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0C1421",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tayoaki.eightyeightgames"
+    },
+    "android": {
+      "package": "com.tayoaki.eightyeightgames"
+    },
+    "web": {
+      "name": "88 Games",
+      "bundler": "metro"
+    },
+    "icon": "./assets/spades-hero.png"
+  }
+}
